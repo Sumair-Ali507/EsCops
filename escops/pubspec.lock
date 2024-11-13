@@ -12,10 +12,9 @@ packages:
   bluetooth_print:
     dependency: "direct dev"
     description:
-      name: bluetooth_print
-      sha256: b391cd7b22b772e07dfddb4e065ecbed5f0e8dd777ce726e1ea56492c8d3ecc8
-      url: "https://pub.dev"
-    source: hosted
+      path: "packages/bluetooth_print-4.3.0"
+      relative: true
+    source: path
     version: "4.3.0"
   boolean_selector:
     dependency: transitive
